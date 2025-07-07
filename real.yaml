@@ -1,0 +1,13 @@
+train: /home/user/datasets/ApplesM5/real/yolo/images/trains
+val: /home/user/datasets/ApplesM5/real/yolo/images/vals
+
+flipud: 0.5
+fliplr: 0.5
+
+hsv_h: 0.1
+hsv_s: 0.1
+hsv_v: 0.1
+
+nc: 1
+names:
+  0: 'apple'
