@@ -1,6 +1,9 @@
 # ApplesM5
+## Breaking the Bottleneck: Synthetic Data as the New Foundation for Vision AI
 
-This repository contains training images and scripts for the Synetic AI **ApplesM5** object detection project, using **Ultralytics YOLO12**. The core scripts allow you to train models using custom YAML datasets and evaluate the results using the provided train_metrics.py script.
+This repository contains training images and scripts for the Synetic AI **ApplesM5** object detection project that was used in the **Breaking the Bottleneck: Synthetic Data as the New Foundation for Vision AI** white paper, using **Ultralytics YOLO12**. The core scripts allow you to train models using custom YAML datasets and evaluate the results using the provided train_metrics.py script.
+
+The paper is available for download at https://synetic.ai/white-paper/breaking/benchmark .
 
 ---
 
